@@ -1,0 +1,4 @@
+body { font-family: Arial; max-width: 800px; margin: 0 auto; padding: 20px; }
+#login, #app { border: 1px solid #ccc; padding: 20px; margin-top: 20px; }
+input, button { display: block; margin: 10px 0; padding: 8px; width: 300px; }
+img { max-width: 200px; margin: 10px; }
